@@ -23,5 +23,6 @@ I want to give credit to my lab partner, Reilly Kobbe. Reilly and I worked toget
 
 **4. Coupled Oscillators** - Our third project was a model of coupled oscillators. This project involved the study of oscillations and waves. The goal of this project was to model violin strings.
 
-**5. Brownian Motion** - Our final semester project was to research and model Brownian Motion. We did this by modeling a pollen particle in water. We used Monte Carlo to model the randomness in all of the water particles. - 
+**5. Brownian Motion** - Our final semester project was to research and model Brownian Motion. We did this by modeling a pollen particle in water. We used Monte Carlo to model the randomness in all of the water particles. - https://github.com/mblanchard10/final.git
+
 
