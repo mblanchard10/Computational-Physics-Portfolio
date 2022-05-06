@@ -15,7 +15,7 @@ I want to give credit to my lab partner, Reilly Kobbe. Reilly and I worked toget
 
 **My Projects**
 
-**00. Plinko Board** - Here we modeled a plinko board. This project gave us an introduction to collision code and how gravity has an effect on mass. We took a sample of times it took for the ball to reach the bottom. From there, we derived a histograph from out data. - https://github.com/HPUPhysics-PHY2200-S22/00-project-mblanchard10.git
+**00. Plinko Board** - Here we modeled a plinko board. This project gave us an introduction to collision code and how gravity has an effect on mass. We took a sample of times it took for the ball to reach the bottom. From there, we derived a histograph from out data. To view this code, please check under the V1 branch. - https://github.com/HPUPhysics-PHY2200-S22/00-project-mblanchard10.git
 
 **01. Double Pendeulum** - In this project, Reilly and I modeled a double pendulum. This was our introduction to ODE's, as we included the RK4 method in our code. We investigated the effects certain constants such as the mass of the ball or length of the rod had on the movement of the pendulum. - https://github.com/HPUPhysics-PHY2200-S22/01-project-mblanchard10.git
 
