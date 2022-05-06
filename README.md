@@ -19,4 +19,9 @@ I want to give credit to my lab partner, Reilly Kobbe. Reilly and I worked toget
 
 **2. Double Pendeulum** - In this project, Reilly and I modeled a double pendulum. This was our introduction to ODE's, as we included the RK4 method in our code. We investigated the effects certain constants such as the mass of the ball or length of the rod had on the movement of the pendulum. 
 
-**3. Trajectory of a Curveball Pitch** - For our third project we modeled the trajctory of a curveball pitch. This project was interesting because
+**3. Trajectory of a Curveball Pitch** - For our third project we modeled the trajctory of a curveball pitch. This project allowed us to study Magnus Effect and drag. We were able to use differential equations and an RK4 model ODE to model a curveball pitch.
+
+**4. Coupled Oscillators** - Our third project was a model of coupled oscillators. This project involved the study of oscillations and waves. The goal of this project was to model violin strings.
+
+**5. Brownian Motion** - Our final semester project was to research and model Brownian Motion. We did this by modeling a pollen particle in water. We used Monte Carlo to model the randomness in all of the water particles. - 
+
